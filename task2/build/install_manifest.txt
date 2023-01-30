@@ -1,0 +1,9 @@
+/home/zxy/task2/install/_setup_util.py
+/home/zxy/task2/install/env.sh
+/home/zxy/task2/install/setup.bash
+/home/zxy/task2/install/local_setup.bash
+/home/zxy/task2/install/setup.sh
+/home/zxy/task2/install/local_setup.sh
+/home/zxy/task2/install/setup.zsh
+/home/zxy/task2/install/local_setup.zsh
+/home/zxy/task2/install/.rosinstall

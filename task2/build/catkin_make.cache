@@ -1,0 +1,2 @@
+task2_pkg
+-DCATKIN_DEVEL_PREFIX=/home/zxy/task2/devel -DCMAKE_INSTALL_PREFIX=/home/zxy/task2/install -G Unix Makefiles
